@@ -1,0 +1,5 @@
+Estado: SP, Representação: 37.53%
+Estado: RJ, Representação: 20.29%
+Estado: MG, Representação: 16.17%
+Estado: ES, Representação: 15.03%
+Estado: Outros, Representação: 10.98%

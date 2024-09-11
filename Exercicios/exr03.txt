@@ -1,0 +1,8 @@
+Exercicio A menor faturamento: 
+{"Dia":14,"Faturamento":373.7838}
+
+Exercicio B maior faturamento: 
+{"Dia":16,"Faturamento":48924.2448}
+
+Quantidade de dias acima da média: 
+10

@@ -1,0 +1,7 @@
+-- Exemplos --
+O número 0 não pertence à sequência: 
+O número 1 não pertence à sequência: 0
+O número 5 não pertence à sequência: 0, 1, 1, 2, 3
+O número 8 pertence à sequência: 0, 1, 1, 2, 3, 5, 8, 13
+O número 10 não pertence à sequência: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+O número 17 não pertence à sequência: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987
